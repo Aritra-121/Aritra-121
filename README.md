@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aritra-121
+- 👋 Hi, I’m @Aritra Chakraborty
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning web development
 - 📫 How to reach me ... my email coderaritra875@gmail.com

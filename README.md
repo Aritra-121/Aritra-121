@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Aritra Chakraborty
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning machine learning
+-
 - 📫 How to reach me ... my email coderaritra875@gmail.com
 - 
 
